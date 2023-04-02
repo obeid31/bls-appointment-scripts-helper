@@ -4,8 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       @Itsmaarouf
-// @match        *://*.blsspainmorocco.com/*
-// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+algeria.blsspainvisa.com// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // ==/UserScript==
 
